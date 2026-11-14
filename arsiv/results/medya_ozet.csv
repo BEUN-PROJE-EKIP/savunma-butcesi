@@ -1,0 +1,57 @@
+kayip_taraf,proje_kategori,site_sayisi,kalabalik_medyan,kalabalik_geo_ort,en_kucuk,en_buyuk,medya_grubu,resmi_ile_ayni_oran,resmi_iddia_son,referans,referans_kaynak,kalabalik_bolu_ref,resmi_bolu_ref
+Azerbaycan,asker_olu,5,166.0,93.04,12,729,Azeri-Türk medyası,0.08,,3440,UCDP,0.05,
+Azerbaycan,asker_olu,3,200.0,224.03,60,937,Ermeni medyası,0.0,,3440,UCDP,0.06,
+Azerbaycan,asker_olu,54,280.0,233.35,3,937,HEPSİ,0.03,,3440,UCDP,0.08,
+Azerbaycan,asker_olu,46,290.0,258.57,3,800,uluslararası,0.02,,3440,UCDP,0.08,
+Azerbaycan,helikopter,4,2.0,2.0,2,2,Azeri-Türk medyası,0.0,16.0,1,Oryx,2.0,16.0
+Azerbaycan,helikopter,9,3.0,3.93,2,16,Ermeni medyası,0.39,16.0,1,Oryx,3.0,16.0
+Azerbaycan,helikopter,97,2.0,2.13,2,16,HEPSİ,0.09,16.0,1,Oryx,2.0,16.0
+Azerbaycan,helikopter,84,2.0,2.0,2,2,uluslararası,0.0,16.0,1,Oryx,2.0,16.0
+Azerbaycan,iha,1,2.0,2.0,2,2,Azeri-Türk medyası,0.0,264.0,4,Oryx,0.5,66.0
+Azerbaycan,iha,9,20.0,29.6,7,262,Ermeni medyası,0.12,264.0,4,Oryx,5.0,66.0
+Azerbaycan,iha,50,3.0,4.77,2,262,HEPSİ,0.06,264.0,4,Oryx,0.75,66.0
+Azerbaycan,iha,40,3.0,3.24,2,124,uluslararası,0.0,264.0,4,Oryx,0.75,66.0
+Azerbaycan,lojistik,2,1.5,1.41,1,2,Ermeni medyası,0.25,82.0,46,Oryx,0.03,1.78
+Azerbaycan,lojistik,2,1.5,1.41,1,2,HEPSİ,0.25,82.0,46,Oryx,0.03,1.78
+Azerbaycan,roketatar,2,4.5,4.47,4,5,Ermeni medyası,0.75,9.0,2,Oryx,2.25,4.5
+Azerbaycan,roketatar,2,4.5,4.47,4,5,HEPSİ,0.75,9.0,2,Oryx,2.25,4.5
+Azerbaycan,tank,9,30.0,23.3,1,181,Ermeni medyası,0.09,784.0,62,Oryx,0.48,12.65
+Azerbaycan,tank,85,3.0,4.78,1,181,HEPSİ,0.04,784.0,62,Oryx,0.05,12.65
+Azerbaycan,tank,76,3.0,3.96,3,137,uluslararası,0.01,784.0,62,Oryx,0.05,12.65
+Azerbaycan,topcu,5,5.0,6.54,2,20,Ermeni medyası,0.0,,1,Oryx,5.0,
+Azerbaycan,topcu,5,5.0,6.54,2,20,HEPSİ,0.0,,1,Oryx,5.0,
+Azerbaycan,ucak,1,3.0,3.0,3,3,Azeri-Türk medyası,0.0,25.0,1,Oryx,3.0,25.0
+Azerbaycan,ucak,5,17.0,11.53,2,25,Ermeni medyası,0.71,25.0,1,Oryx,17.0,25.0
+Azerbaycan,ucak,18,3.0,4.26,2,25,HEPSİ,0.49,25.0,1,Oryx,3.0,25.0
+Azerbaycan,ucak,12,3.0,2.9,2,3,uluslararası,0.0,25.0,1,Oryx,3.0,25.0
+Azerbaycan,zirhli_arac,3,4.0,5.43,4,10,Ermeni medyası,1.0,,123,Oryx,0.03,
+Azerbaycan,zirhli_arac,3,4.0,5.43,4,10,HEPSİ,1.0,,123,Oryx,0.03,
+Azerbaycan,zirhli_toplam,5,80.0,81.34,3,749,Ermeni medyası,0.14,784.0,185,Oryx,0.43,4.24
+Azerbaycan,zirhli_toplam,5,80.0,81.34,3,749,HEPSİ,0.14,784.0,185,Oryx,0.43,4.24
+Ermenistan,asker_olu,5,300.0,210.86,12,772,Azeri-Türk medyası,0.75,,3900,UCDP,0.08,
+Ermenistan,asker_olu,6,92.0,113.33,30,604,Ermeni medyası,0.31,,3900,UCDP,0.02,
+Ermenistan,asker_olu,150,300.0,210.53,2,963,HEPSİ,0.19,,3900,UCDP,0.08,
+Ermenistan,asker_olu,139,300.0,216.23,2,963,uluslararası,0.15,,3900,UCDP,0.08,
+Ermenistan,hava_savunma,6,18.5,15.33,2,60,Azeri-Türk medyası,0.45,78.0,72,Oryx,0.26,1.08
+Ermenistan,hava_savunma,8,12.0,14.42,2,60,HEPSİ,0.54,78.0,72,Oryx,0.17,1.08
+Ermenistan,hava_savunma,2,12.0,12.0,12,12,uluslararası,1.0,78.0,72,Oryx,0.17,1.08
+Ermenistan,helikopter,7,2.0,2.0,2,2,Azeri-Türk medyası,1.0,,1,Oryx,2.0,
+Ermenistan,helikopter,8,2.0,2.0,2,2,HEPSİ,1.0,,1,Oryx,2.0,
+Ermenistan,helikopter,1,2.0,2.0,2,2,uluslararası,1.0,,1,Oryx,2.0,
+Ermenistan,iha,10,6.0,6.31,3,30,Azeri-Türk medyası,0.87,22.0,5,Oryx,1.2,4.4
+Ermenistan,iha,14,6.0,7.3,2,100,HEPSİ,0.79,22.0,5,Oryx,1.2,4.4
+Ermenistan,iha,4,11.5,10.47,2,100,uluslararası,0.5,22.0,5,Oryx,2.3,4.4
+Ermenistan,lojistik,3,180.0,54.51,5,180,Azeri-Türk medyası,0.25,522.0,738,Oryx,0.24,0.71
+Ermenistan,lojistik,3,180.0,54.51,5,180,HEPSİ,0.25,522.0,738,Oryx,0.24,0.71
+Ermenistan,tank,14,51.5,19.29,2,300,Azeri-Türk medyası,0.58,366.0,254,Oryx,0.2,1.44
+Ermenistan,tank,18,8.0,16.91,2,300,HEPSİ,0.61,366.0,254,Oryx,0.03,1.44
+Ermenistan,tank,4,7.5,10.68,2,250,uluslararası,0.75,366.0,254,Oryx,0.03,1.44
+Ermenistan,topcu,6,200.0,92.19,2,277,Azeri-Türk medyası,0.22,510.0,338,Oryx,0.59,1.51
+Ermenistan,topcu,6,200.0,92.19,2,277,HEPSİ,0.22,510.0,338,Oryx,0.59,1.51
+Ermenistan,ucak,8,2.0,4.08,2,100,Azeri-Türk medyası,0.88,2.0,1,Oryx,2.0,2.0
+Ermenistan,ucak,18,5.0,4.71,2,100,HEPSİ,0.94,2.0,1,Oryx,5.0,2.0
+Ermenistan,ucak,10,8.0,5.28,2,8,uluslararası,1.0,2.0,1,Oryx,8.0,2.0
+Ermenistan,zirhli_arac,1,90.0,90.0,90,90,Azeri-Türk medyası,0.0,116.0,152,Oryx,0.59,0.76
+Ermenistan,zirhli_arac,1,90.0,90.0,90,90,HEPSİ,0.0,116.0,152,Oryx,0.59,0.76
+Ermenistan,zirhli_toplam,2,18.5,14.49,7,30,Azeri-Türk medyası,0.0,230.0,406,Oryx,0.05,0.57
+Ermenistan,zirhli_toplam,2,18.5,14.49,7,30,HEPSİ,0.0,230.0,406,Oryx,0.05,0.57

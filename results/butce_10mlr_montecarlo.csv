@@ -1,0 +1,16 @@
+silah,ad,harcama_medyan_mrd,harcama_p10_mrd,harcama_p90_mrd,secilme_olasiligi_%
+patriot,Patriot PAC-3 önleyici,3.15,2.76,3.61,100.0
+fpv,FPV dron,2.61,1.69,4.06,100.0
+gmlrs,Güdümlü roket (GMLRS),1.82,0.0,2.46,85.0
+gudumlu_bomba,Güdümlü süzülen bomba (UMPK tipi),0.89,0.7,1.11,98.0
+onleyici_dron,Önleyici dron (Sting tipi),0.81,0.49,1.36,100.0
+lancet,Dolanan mühimmat (Lancet tipi),0.0,0.0,0.68,47.0
+top_mermisi,155 mm topçu mermisi,0.0,0.0,1.49,41.0
+tanksavar,Tanksavar füzesi (Javelin tipi),0.0,0.0,0.0,8.0
+_10 mrd tamamen harcanan çekiliş %,10 mrd tamamen harcanan çekiliş %: 93.6,,,,
+_eşik medyan mrd,eşik medyan mrd: 7.68,,,,
+_eşik p10 mrd,eşik p10 mrd: 5.88,,,,
+_eşik p90 mrd,eşik p90 mrd: 11.19,,,,
+_eşik < 10 mrd olan çekiliş %,eşik < 10 mrd olan çekiliş %: 81.9,,,,
+_10 mrd getiri medyan mrd,10 mrd getiri medyan mrd: 87.5,,,,
+_eşikteki getirinin 10 mrd getirisine oranı medyan %,eşikteki getirinin 10 mrd getirisine oranı medyan %: 98.7,,,,

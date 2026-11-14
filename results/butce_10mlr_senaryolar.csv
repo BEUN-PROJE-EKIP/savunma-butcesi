@@ -1,0 +1,9 @@
+senaryo,butce_mrd,harcanan_mrd,getiri_mrd,getiri_kat,son_dolar_getirisi,fpv,lancet,top_mermisi,gudumlu_bomba,gmlrs,tanksavar,onleyici_dron,patriot
+A: Veriden orta değer,6.0,6.0,57.9,9.7,1.33,1.53,0.0,0.0,0.67,0.0,0.0,0.7,3.1
+A: Veriden orta değer,10.0,10.0,60.3,6.0,0.25,2.4,0.0,0.24,0.9,2.66,0.0,0.7,3.1
+B: Hedef sayısı alt sınır (Oryx düzeyi),6.0,6.0,44.2,7.4,0.67,1.52,0.0,0.0,0.9,0.0,0.0,0.48,3.1
+B: Hedef sayısı alt sınır (Oryx düzeyi),10.0,6.49,44.5,6.9,0.0,2.01,0.0,0.0,0.9,0.0,0.0,0.48,3.1
+"C: Hedef sayısı üst sınır (iddia x 1,5)",6.0,6.0,127.7,21.3,5.33,1.52,0.0,0.0,0.0,0.0,0.0,1.38,3.1
+"C: Hedef sayısı üst sınır (iddia x 1,5)",10.0,10.0,135.6,13.6,0.53,2.4,0.7,0.0,0.9,0.83,0.69,1.38,3.1
+D: C + üretim kapasitesi 3 kat,6.0,6.0,128.5,21.4,7.2,1.15,0.0,0.0,0.0,0.0,0.0,1.49,3.35
+D: C + üretim kapasitesi 3 kat,10.0,10.0,157.3,15.7,7.2,1.15,0.0,0.0,0.0,0.0,0.0,1.49,7.35

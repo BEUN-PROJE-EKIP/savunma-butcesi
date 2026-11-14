@@ -1,0 +1,11 @@
+model,log_loss,brier_imha,dogruluk,test
+B0 Genel oran,1.0235,0.2293,0.58,zaman (2025-26)
+B1 Hedef türü oranı,1.105,0.2142,0.587,zaman (2025-26)
+Lojistik regresyon,0.9809,0.2401,0.536,zaman (2025-26)
+Random Forest,0.9875,0.2277,0.606,zaman (2025-26)
+Gradient Boosting,1.0388,0.2309,0.603,zaman (2025-26)
+B0 Genel oran,1.0391,0.2194,0.596,5 katlı CV
+B1 Hedef türü oranı,1.1459,0.2043,0.626,5 katlı CV
+Lojistik regresyon,1.1644,0.202,0.626,5 katlı CV
+Random Forest,1.14,0.2006,0.633,5 katlı CV
+Gradient Boosting,1.1677,0.2006,0.63,5 katlı CV

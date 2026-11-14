@@ -1,0 +1,49 @@
+iddia_eden,kategori,iddia_tarihi,iddia,oryx_12kas2026,model,tahmin,kat_hata,yon
+Rusya,hava_savunma,2026-10-20,672,238,B0 Resmi iddia,672,2.82,fazla
+Rusya,helikopter,2026-10-20,284,59,B0 Resmi iddia,284,4.81,fazla
+Rusya,roketatar,2026-10-20,1792,137,B0 Resmi iddia,1792,13.08,fazla
+Rusya,topcu,2026-10-20,36767,1308,B0 Resmi iddia,36767,28.11,fazla
+Rusya,ucak,2026-10-20,674,122,B0 Resmi iddia,674,5.52,fazla
+Rusya,zirhli_toplam,2026-10-20,31314,6159,B0 Resmi iddia,31314,5.08,fazla
+Ukrayna,hava_savunma,2026-09-11,1622,551,B0 Resmi iddia,1622,2.94,fazla
+Ukrayna,helikopter,2026-09-11,356,186,B0 Resmi iddia,356,1.91,fazla
+Ukrayna,roketatar,2026-09-11,2109,646,B0 Resmi iddia,2109,3.26,fazla
+Ukrayna,topcu,2026-09-11,49516,1688,B0 Resmi iddia,49516,29.33,fazla
+Ukrayna,ucak,2026-09-11,441,208,B0 Resmi iddia,441,2.12,fazla
+Ukrayna,zirhli_toplam,2026-09-11,37653,14203,B0 Resmi iddia,37653,2.65,fazla
+Rusya,hava_savunma,2026-10-20,672,238,B3 Tarafın kendi geçmişi,243,1.02,fazla
+Rusya,helikopter,2026-10-20,284,59,B3 Tarafın kendi geçmişi,41,1.45,eksik
+Rusya,roketatar,2026-10-20,1792,137,B3 Tarafın kendi geçmişi,100,1.37,eksik
+Rusya,topcu,2026-10-20,36767,1308,B3 Tarafın kendi geçmişi,1938,1.48,fazla
+Rusya,ucak,2026-10-20,674,122,B3 Tarafın kendi geçmişi,110,1.11,eksik
+Rusya,zirhli_toplam,2026-10-20,31314,6159,B3 Tarafın kendi geçmişi,6162,1.0,fazla
+Ukrayna,hava_savunma,2026-09-11,1622,551,B3 Tarafın kendi geçmişi,846,1.54,fazla
+Ukrayna,helikopter,2026-09-11,356,186,B3 Tarafın kendi geçmişi,146,1.27,eksik
+Ukrayna,roketatar,2026-09-11,2109,646,B3 Tarafın kendi geçmişi,818,1.27,fazla
+Ukrayna,topcu,2026-09-11,49516,1688,B3 Tarafın kendi geçmişi,6546,3.88,fazla
+Ukrayna,ucak,2026-09-11,441,208,B3 Tarafın kendi geçmişi,144,1.45,eksik
+Ukrayna,zirhli_toplam,2026-09-11,37653,14203,B3 Tarafın kendi geçmişi,17639,1.24,fazla
+Rusya,hava_savunma,2026-10-20,672,238,RF Random Forest,250,1.05,fazla
+Rusya,helikopter,2026-10-20,284,59,RF Random Forest,52,1.14,eksik
+Rusya,roketatar,2026-10-20,1792,137,RF Random Forest,101,1.36,eksik
+Rusya,topcu,2026-10-20,36767,1308,RF Random Forest,1346,1.03,fazla
+Rusya,ucak,2026-10-20,674,122,RF Random Forest,111,1.1,eksik
+Rusya,zirhli_toplam,2026-10-20,31314,6159,RF Random Forest,6412,1.04,fazla
+Ukrayna,hava_savunma,2026-09-11,1622,551,RF Random Forest,649,1.18,fazla
+Ukrayna,helikopter,2026-09-11,356,186,RF Random Forest,157,1.18,eksik
+Ukrayna,roketatar,2026-09-11,2109,646,RF Random Forest,779,1.21,fazla
+Ukrayna,topcu,2026-09-11,49516,1688,RF Random Forest,2559,1.52,fazla
+Ukrayna,ucak,2026-09-11,441,208,RF Random Forest,184,1.13,eksik
+Ukrayna,zirhli_toplam,2026-09-11,37653,14203,RF Random Forest,14744,1.04,fazla
+Rusya,hava_savunma,2026-10-20,672,238,GB Gradient Boosting,149,1.59,eksik
+Rusya,helikopter,2026-10-20,284,59,GB Gradient Boosting,41,1.44,eksik
+Rusya,roketatar,2026-10-20,1792,137,GB Gradient Boosting,157,1.15,fazla
+Rusya,topcu,2026-10-20,36767,1308,GB Gradient Boosting,1421,1.09,fazla
+Rusya,ucak,2026-10-20,674,122,GB Gradient Boosting,100,1.21,eksik
+Rusya,zirhli_toplam,2026-10-20,31314,6159,GB Gradient Boosting,5230,1.18,eksik
+Ukrayna,hava_savunma,2026-09-11,1622,551,GB Gradient Boosting,896,1.63,fazla
+Ukrayna,helikopter,2026-09-11,356,186,GB Gradient Boosting,124,1.5,eksik
+Ukrayna,roketatar,2026-09-11,2109,646,GB Gradient Boosting,682,1.06,fazla
+Ukrayna,topcu,2026-09-11,49516,1688,GB Gradient Boosting,4847,2.87,fazla
+Ukrayna,ucak,2026-09-11,441,208,GB Gradient Boosting,156,1.33,eksik
+Ukrayna,zirhli_toplam,2026-09-11,37653,14203,GB Gradient Boosting,16433,1.16,fazla

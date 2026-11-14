@@ -1,0 +1,83 @@
+tarih,iddia_eden,kayip_taraf,iddia_kategori,proje_kategori,durum,adet,kaynak_url,not
+2020-09-28,Ermenistan,Azerbaycan,tanks and armoured vehicles,zirhli_toplam,imha,34,https://armenpress.am/eng/news/1029179.html,ilk gun revize
+2020-09-28,Ermenistan,Azerbaycan,helicopters,helikopter,imha,4,https://armenpress.am/eng/news/1029179.html,
+2020-09-28,Ermenistan,Azerbaycan,UAVs,iha,imha,27,https://armenpress.am/eng/news/1029179.html,
+2020-10-09,Ermenistan,Azerbaycan,armored vehicles,zirhli_toplam,imha,508,https://news.am/eng/news/606981.html,Unified Infocenter; mainly tanks
+2020-10-09,Ermenistan,Azerbaycan,armored personnel carriers,zirhli_ek,imha,10,https://news.am/eng/news/606981.html,
+2020-10-09,Ermenistan,Azerbaycan,UAVs,iha,imha,162,https://news.am/eng/news/606981.html,
+2020-10-09,Ermenistan,Azerbaycan,helicopters,helikopter,imha,16,https://news.am/eng/news/606981.html,
+2020-10-09,Ermenistan,Azerbaycan,warplanes,ucak,imha,17,https://news.am/eng/news/606981.html,
+2020-10-09,Ermenistan,Azerbaycan,TOS-1A,roketatar,imha,4,https://news.am/eng/news/606981.html,
+2020-10-09,Ermenistan,Azerbaycan,Smerch,roketatar,imha,4,https://news.am/eng/news/606981.html,
+2020-10-09,Ermenistan,Azerbaycan,Uragan,roketatar,imha,1,https://news.am/eng/news/606981.html,
+2020-10-09,Ermenistan,Azerbaycan,other vehicles,lojistik,imha,82,https://news.am/eng/news/606981.html,
+2020-10-13,Ermenistan,Azerbaycan,tanks and other armored equipment,zirhli_toplam,imha,521,https://www.armenpress.am/eng/news/1031421/,
+2020-10-13,Ermenistan,Azerbaycan,UAVs,iha,imha,173,https://www.armenpress.am/eng/news/1031421/,
+2020-10-13,Ermenistan,Azerbaycan,helicopters,helikopter,imha,16,https://www.armenpress.am/eng/news/1031421/,
+2020-10-13,Ermenistan,Azerbaycan,warplanes,ucak,imha,18,https://www.armenpress.am/eng/news/1031421/,
+2020-10-13,Ermenistan,Azerbaycan,TOS,roketatar,imha,4,https://www.armenpress.am/eng/news/1031421/,
+2020-10-23,Ermenistan,Azerbaycan,armored vehicles,zirhli_toplam,imha,588,https://en.armradio.am/2020/10/23/update-on-azerbaijani-losses-6/,
+2020-10-23,Ermenistan,Azerbaycan,UAVs,iha,imha,206,https://en.armradio.am/2020/10/23/update-on-azerbaijani-losses-6/,
+2020-10-23,Ermenistan,Azerbaycan,helicopters,helikopter,imha,16,https://en.armradio.am/2020/10/23/update-on-azerbaijani-losses-6/,
+2020-10-23,Ermenistan,Azerbaycan,planes,ucak,imha,24,https://en.armradio.am/2020/10/23/update-on-azerbaijani-losses-6/,
+2020-10-23,Ermenistan,Azerbaycan,TOS,roketatar,imha,4,https://en.armradio.am/2020/10/23/update-on-azerbaijani-losses-6/,
+2020-10-28,Ermenistan,Azerbaycan,armored vehicles,zirhli_toplam,imha,618,https://arka.am/en/news/politics/armenia_s_unified_information_center_releases_latest_figures_on_enemy_s_losses_in_artsakh/,
+2020-10-28,Ermenistan,Azerbaycan,UAVs,iha,imha,223,https://arka.am/en/news/politics/armenia_s_unified_information_center_releases_latest_figures_on_enemy_s_losses_in_artsakh/,
+2020-10-28,Ermenistan,Azerbaycan,helicopters,helikopter,imha,16,https://arka.am/en/news/politics/armenia_s_unified_information_center_releases_latest_figures_on_enemy_s_losses_in_artsakh/,
+2020-10-28,Ermenistan,Azerbaycan,aircraft,ucak,imha,25,https://arka.am/en/news/politics/armenia_s_unified_information_center_releases_latest_figures_on_enemy_s_losses_in_artsakh/,
+2020-10-28,Ermenistan,Azerbaycan,TOS,roketatar,imha,6,https://arka.am/en/news/politics/armenia_s_unified_information_center_releases_latest_figures_on_enemy_s_losses_in_artsakh/,
+2020-11-05,Ermenistan,Azerbaycan,armored equipment,zirhli_toplam,imha,723,https://armenpress.am/en/article/1034022,
+2020-11-05,Ermenistan,Azerbaycan,UAVs,iha,imha,257,https://armenpress.am/en/article/1034022,
+2020-11-05,Ermenistan,Azerbaycan,helicopters,helikopter,imha,16,https://armenpress.am/en/article/1034022,
+2020-11-05,Ermenistan,Azerbaycan,warplanes,ucak,imha,25,https://armenpress.am/en/article/1034022,
+2020-11-05,Ermenistan,Azerbaycan,TOS,roketatar,imha,6,https://armenpress.am/en/article/1034022,
+2020-11-08,Ermenistan,Azerbaycan,armoured vehicles,zirhli_toplam,imha,784,https://en.armradio.am/2020/11/08/azerbaijans-military-death-toll-reaches-7630/,Wikipedia uzerinden
+2020-11-08,Ermenistan,Azerbaycan,drones,iha,imha,264,https://en.armradio.am/2020/11/08/azerbaijans-military-death-toll-reaches-7630/,Wikipedia uzerinden
+2020-11-08,Ermenistan,Azerbaycan,attack helicopters,helikopter,imha,16,https://en.armradio.am/2020/11/08/azerbaijans-military-death-toll-reaches-7630/,Wikipedia uzerinden
+2020-11-08,Ermenistan,Azerbaycan,warplanes,ucak,imha,25,https://en.armradio.am/2020/11/08/azerbaijans-military-death-toll-reaches-7630/,Wikipedia uzerinden
+2020-11-08,Ermenistan,Azerbaycan,TOS,roketatar,imha,6,https://en.armradio.am/2020/11/08/azerbaijans-military-death-toll-reaches-7630/,Wikipedia uzerinden
+2020-10-03,Azerbaycan,Ermenistan,armored vehicles,zirhli_toplam,imha,230,https://turan.az/en/politics/since-september-27-the-armenian-armed-forces-have-lost-up-to-230-armored-vehicles-and-250-gun-mounts-mlrs-and-mortars,up to; MoD
+2020-10-03,Azerbaycan,Ermenistan,gun mounts MLRS and mortars,topcu_roketatar,imha,250,https://turan.az/en/politics/since-september-27-the-armenian-armed-forces-have-lost-up-to-230-armored-vehicles-and-250-gun-mounts-mlrs-and-mortars,up to; MoD
+2020-10-20,Azerbaycan,Ermenistan,tanks,tank,imha,241,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,tanks,tank,ele_gecirildi,39,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,IFVs,zirhli_arac,imha,50,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,IFVs,zirhli_arac,ele_gecirildi,24,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,guns,topcu,imha,198,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,self-propelled artillery,topcu,imha,17,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,mortars,topcu,imha,58,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,mortars,topcu,ele_gecirildi,12,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,BM-21 Grad,roketatar,imha,70,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,TOS-1 + Uragan,roketatar,imha,3,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,air defense (S-300 4 + Tor 3 + Osa ~40 + Kub/Krug 5),hava_savunma,imha,52,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,electronic warfare,elektronik_harp,imha,8,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,drones,iha,imha,6,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,trucks,lojistik,imha,198,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-20,Azerbaycan,Ermenistan,cargo vehicles,lojistik,ele_gecirildi,102,https://www.trend.az/azerbaijan/politics/3320558.html,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,tanks,tank,imha,252,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,tanks,tank,ele_gecirildi,53,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,IFVs,zirhli_arac,imha,50,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,IFVs,zirhli_arac,ele_gecirildi,29,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,guns,topcu,imha,251,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,guns,topcu,ele_gecirildi,24,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,mortars,topcu,imha,61,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,mortars,topcu,ele_gecirildi,45,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,Grad + Uragan + MLRS + TOS,roketatar,imha,87,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,air defense (Tor 4 + Osa ~40 + Kub 4 + Krug 1 + S-125 2 + S-300 6),hava_savunma,imha,57,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,trucks,lojistik,imha,231,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-10-26,Azerbaycan,Ermenistan,trucks,lojistik,ele_gecirildi,173,https://apa.az/en/nagorno_garabagh/President-Ilham-Aliyev-discloses-list-of-part-of-Armenias-equipment-which-destroyed-and-taken-as-trophy-333940,Aliyev
+2020-12-01,Azerbaycan,Ermenistan,tanks,tank,imha,287,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai
+2020-12-01,Azerbaycan,Ermenistan,tanks,tank,ele_gecirildi,79,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai
+2020-12-01,Azerbaycan,Ermenistan,IFVs,zirhli_arac,imha,69,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai
+2020-12-01,Azerbaycan,Ermenistan,IFVs,zirhli_arac,ele_gecirildi,47,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai
+2020-12-01,Azerbaycan,Ermenistan,cannons + SP artillery,topcu,imha,343,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai (315+28)
+2020-12-01,Azerbaycan,Ermenistan,cannons + SP artillery,topcu,ele_gecirildi,42,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai (37+5)
+2020-12-01,Azerbaycan,Ermenistan,mortars,topcu,imha,63,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai
+2020-12-01,Azerbaycan,Ermenistan,mortars,topcu,ele_gecirildi,62,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai
+2020-12-01,Azerbaycan,Ermenistan,Smerch + Grad + Uragan + MLRS + TOS,roketatar,imha,105,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai (4+97+2+1+1)
+2020-12-01,Azerbaycan,Ermenistan,air defense (S-300 7 + Tor 5 + Osa 40 + Kub 4 + Krug 1 + Zastava 14 + S-125 2),hava_savunma,imha,73,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai; radarlar haric
+2020-12-01,Azerbaycan,Ermenistan,Shilka,hava_savunma,ele_gecirildi,5,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai
+2020-12-01,Azerbaycan,Ermenistan,radars,radar,imha,12,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai (S-300 radar 1+det 2+Defense 1+Sky-M 1+various 7)
+2020-12-01,Azerbaycan,Ermenistan,UAVs,iha,imha,22,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai
+2020-12-01,Azerbaycan,Ermenistan,Su-25,ucak,imha,2,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai
+2020-12-01,Azerbaycan,Ermenistan,trucks,lojistik,imha,252,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai
+2020-12-01,Azerbaycan,Ermenistan,trucks,lojistik,ele_gecirildi,270,https://apa.az/en/nagorno_garabagh/Azerbaijani-President-reveals-number-of-destroyed-equipment-of-the-Armenian-army-336681,Aliyev; nihai

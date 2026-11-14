@@ -1,0 +1,351 @@
+E|0|T-72 'Ural'|0|1
+E|0|T-72 'Ural'|1|1
+E|0|T-72A|2|17
+E|0|T-72A|3|1
+E|0|T-72A|4|1
+E|0|T-72A|0|5
+E|0|T-72A|1|13
+E|0|T-72A|5|9
+E|0|T-72A|6|2
+E|0|T-72A|7|1
+E|0|T-72A|8|6
+E|0|T-72A|9|33
+E|0|T-72AK|8|1
+E|0|T-72AK|9|1
+E|0|T-72AV|2|1
+E|0|T-72AV|5|4
+E|0|T-72AV|8|1
+E|0|T-72AV|9|19
+E|0|T-72B|2|11
+E|0|T-72B|0|3
+E|0|T-72B|1|6
+E|0|T-72B|5|7
+E|0|T-72B|6|1
+E|0|T-72B|7|1
+E|0|T-72B|10|1
+E|0|T-72B|11|1
+E|0|T-72B|8|4
+E|0|T-72B|9|34
+E|0|Unknown T-72|2|54
+E|0|Unknown T-72|0|4
+E|0|Unknown T-72|1|3
+E|0|Unknown T-72|5|3
+E|0|Unknown T-72|12|1
+E|0|Unknown T-72|9|3
+E|1|BRM-1K reconnaissance vehicle|2|1
+E|1|BRM-1K reconnaissance vehicle|1|1
+E|1|BRM-1K reconnaissance vehicle|9|3
+E|1|BRDM-2|2|1
+E|1|BRDM-2|9|5
+E|1|MT-LB|2|1
+E|1|MT-LB|1|1
+E|1|MT-LB|9|6
+E|1|MT-LB with Zastava M55 AA gun|2|7
+E|1|MT-LB with Zastava M55 AA gun|1|2
+E|1|MT-LB with Zastava M55 AA gun|5|1
+E|1|MT-LB with Zastava M55 AA gun|13|1
+E|1|MT-LB with Zastava M55 AA gun|9|24
+E|1|MT-LB with ZU-23 AA gun|2|2
+E|1|MT-LB with ZU-23 AA gun|6|1
+E|1|MT-LB with ZU-23 AA gun|9|2
+E|1|MT-LB with AZP S-60 AA gun|5|3
+E|1|MT-LB with AZP S-60 AA gun|9|5
+E|1|MT-LBu|9|1
+E|1|Unknown AFV|5|1
+E|2|BMP-1|2|6
+E|2|BMP-1|1|1
+E|2|BMP-1|5|2
+E|2|BMP-1|8|2
+E|2|BMP-1|13|1
+E|2|BMP-1|9|25
+E|2|BMP-1|14|1
+E|2|BMP-2|2|5
+E|2|BMP-2|0|2
+E|2|BMP-2|1|3
+E|2|BMP-2|5|9
+E|2|BMP-2|15|1
+E|2|BMP-2|8|3
+E|2|BMP-2|9|17
+E|2|Unknown BMP|2|2
+E|2|Unknown BMP|1|1
+E|2|Unknown BMP|5|1
+E|3|BTR-70|5|1
+E|4|9P148 Konkurs|2|3
+E|4|9P148 Konkurs|8|1
+E|4|9P148 Konkurs|9|4
+E|4|9P149 Shturm-S|5|1
+E|4|9P149 Shturm-S|9|10
+E|5|BMP-1KSh command and staff vehicle|9|1
+E|6|BTS-4 armoured recovery vehicle|2|1
+E|6|BTS-4 armoured recovery vehicle|9|4
+E|7|1V13-16 battery fire control center|5|1
+E|7|1V13-16 battery fire control center|9|1
+E|7|SNAR-10 battlefield surveillance radar|9|1
+E|8|85mm D-44 divisional gun|2|1
+E|8|85mm D-44 divisional gun|6|1
+E|8|85mm D-44 divisional gun|8|1
+E|8|85mm D-44 divisional gun|9|6
+E|8|100mm T-12 and MT-12 'Rapira' anti-tank gun|9|4
+E|8|100mm KS-19 AA gun used as howitzer|2|6
+E|8|100mm KS-19 AA gun used as howitzer|1|1
+E|8|100mm KS-19 AA gun used as howitzer|9|15
+E|8|122 mm M-30 howitzer|12|1
+E|8|122mm (D-30) howitzer 2A18|2|57
+E|8|122mm (D-30) howitzer 2A18|1|3
+E|8|122mm (D-30) howitzer 2A18|5|7
+E|8|122mm (D-30) howitzer 2A18|8|2
+E|8|122mm (D-30) howitzer 2A18|9|37
+E|8|152mm (D-1) gun-howitzer M-1943|2|9
+E|8|152mm (D-1) gun-howitzer M-1943|9|9
+E|8|152mm (D-20) gun-howitzer M-1955|2|46
+E|8|152mm (D-20) gun-howitzer M-1955|1|1
+E|8|152mm (D-20) gun-howitzer M-1955|6|3
+E|8|152mm (D-20) gun-howitzer M-1955|9|25
+E|8|152mm 2A36 Giatsint-B field-gun|2|12
+E|8|152mm 2A36 Giatsint-B field-gun|12|1
+E|8|152mm 2A36 Giatsint-B field-gun|8|1
+E|8|152mm 2A36 Giatsint-B field-gun|9|1
+E|9|122mm 2S1 Gvozdika|2|16
+E|9|122mm 2S1 Gvozdika|13|1
+E|9|122mm 2S1 Gvozdika|8|3
+E|9|122mm 2S1 Gvozdika|9|4
+E|9|152mm 2S3 Akatsiya|0|4
+E|9|152mm 2S3 Akatsiya|5|1
+E|10|122mm BM-21 'Grad'|2|56
+E|10|122mm BM-21 'Grad'|0|7
+E|10|122mm BM-21 'Grad'|1|2
+E|10|122mm BM-21 'Grad'|5|1
+E|10|122mm BM-21 'Grad'|16|1
+E|10|122mm BM-21 'Grad'|8|1
+E|10|122mm BM-21 'Grad'|9|7
+E|10|273mm WM-80|17|1
+E|10|220mm TOS-1|2|1
+E|10|300mm BM-30 'Smerch'|2|3
+E|10|300mm BM-30 'Smerch'|0|1
+E|10|Unknown MRL|2|1
+E|10|Unknown MRL|0|1
+E|11|R-17 'Scud-B'|5|2
+E|12|60mm M57|9|16
+E|12|82mm M69|5|3
+E|12|82mm M69|9|11
+E|12|82mm 2B9 Vasilek|9|2
+E|12|120mm M74|9|4
+E|12|120mm M75|5|5
+E|12|120mm M75|9|9
+E|12|'Hell cannon'|9|5
+E|12|Unknown mortar|2|1
+E|12|Unknown mortar|9|3
+E|13|ZU-23|5|2
+E|13|ZU-23|9|2
+E|13|ZSU-23-4 'Shilka'|2|1
+E|13|ZSU-23-4 'Shilka'|8|2
+E|13|ZSU-23-4 'Shilka'|9|8
+E|14|9K35 Strela-10|2|3
+E|14|9K33 Osa|2|16
+E|14|9K33 Osa|0|3
+E|14|9K33 Osa|5|1
+E|14|9K33 Osa|9|2
+E|14|2K12 Kub|0|2
+E|14|2K12 Kub|9|1
+E|14|2K11 Krug|8|1
+E|14|2K11 Krug|9|2
+E|14|5P85S (launcher for S-300PS)|0|2
+E|14|5P85S (launcher for S-300PS)|5|2
+E|14|5P85D (launcher for S-300PS)|0|1
+E|14|S-300 component|0|1
+E|14|Tor-M2KM|0|2
+E|15|P-15 'Flat Face A'|9|1
+E|15|P-18 'Spoon Rest D'|2|2
+E|15|P-19 'Flat Face B'|8|1
+E|15|ST86U/36D6 'Tin Shield' (for S-300)|2|1
+E|15|ST86U/36D6 'Tin Shield' (for S-300)|0|3
+E|15|SNR-125 'Low Blow' (for S-125)|0|1
+E|15|5N63S 'Flap Lid' (for S-300)|0|2
+E|15|19J6 (for S-300)|2|1
+E|15|1S32 'Pat Hand' (for 2K11 Krug)|2|1
+E|15|1S32 'Pat Hand' (for 2K11 Krug)|9|1
+E|15|1S91 SURN (for 2K12 Kub)|2|1
+E|15|1S91 SURN (for 2K12 Kub)|0|1
+E|15|1S91 SURN (for 2K12 Kub)|9|1
+E|15|Unknown radar|5|1
+E|16|R-330P Piramida-I|2|1
+E|16|Repellent-1|5|2
+E|17|Su-25K|18|1
+E|17|Mi-8|5|1
+E|18|Orlan-10|5|1
+E|18|X-55|5|1
+E|18|Quadcopter drone|18|1
+E|18|Unknown UAV|5|2
+E|19|GAZ-66|2|3
+E|19|GAZ-66|5|1
+E|19|GAZ-66|9|15
+E|19|GAZ-69A|9|5
+E|19|GAZ-3308|2|11
+E|19|GAZ-3308|0|2
+E|19|GAZ-3308|1|1
+E|19|GAZ-3308|5|5
+E|19|GAZ-3308|19|1
+E|19|GAZ-3308|12|1
+E|19|GAZ-3308|8|5
+E|19|GAZ-3308|9|45
+E|19|9T217 transloader (for 9K33 Osa)|2|1
+E|19|9T217 transloader (for 9K33 Osa)|9|1
+E|19|KamAZ 6x6|2|23
+E|19|KamAZ 6x6|0|4
+E|19|KamAZ 6x6|1|1
+E|19|KamAZ 6x6|5|11
+E|19|KamAZ 6x6|6|1
+E|19|KamAZ 6x6|8|4
+E|19|KamAZ 6x6|9|25
+E|19|KrAZ-255|8|1
+E|19|KamAZ/KrAZ dump truck|2|12
+E|19|KamAZ/KrAZ dump truck|5|6
+E|19|KamAZ/KrAZ dump truck|9|3
+E|19|ZiL-130|9|3
+E|19|ZiL-131|2|4
+E|19|ZiL-131|0|3
+E|19|ZiL-131|1|1
+E|19|ZiL-131|5|11
+E|19|ZiL-131|8|7
+E|19|ZiL-131|9|62
+E|19|Ural-375|2|1
+E|19|Ural-375|5|4
+E|19|Ural-375|8|1
+E|19|Ural-375|9|4
+E|19|Ural-4320|2|48
+E|19|Ural-4320|0|2
+E|19|Ural-4320|5|13
+E|19|Ural-4320|6|1
+E|19|Ural-4320|8|7
+E|19|Ural-4320|9|50
+E|19|Ural-4320 fuel/water tanker|8|1
+E|19|Ural-4320 fuel/water tanker|9|7
+E|19|Ural-43206|2|6
+E|19|Ural-43206|5|7
+E|19|Ural-43206|8|4
+E|19|Ural-43206|20|1
+E|19|Ural-43206|11|1
+E|19|Ural-43206|9|28
+E|19|UAZ-452|2|5
+E|19|UAZ-452|1|1
+E|19|UAZ-452|5|15
+E|19|UAZ-452|12|8
+E|19|UAZ-452|8|4
+E|19|UAZ-452|9|14
+E|19|UAZ-469|2|9
+E|19|UAZ-469|5|10
+E|19|UAZ-469|6|1
+E|19|UAZ-469|12|3
+E|19|UAZ-469|8|5
+E|19|UAZ-469|9|16
+E|19|UAZ Hunter|9|1
+E|19|UAZ Patriot|5|2
+E|19|UAZ Patriot|8|1
+E|19|UAZ Patriot|9|4
+E|19|UAZ-23602-130|9|7
+E|19|UAZ-23632|2|1
+E|19|UAZ-23632|1|1
+E|19|UAZ-23632|5|2
+E|19|UAZ-23632|9|13
+E|19|Nissan Navara|5|2
+E|19|Nissan Navara|8|3
+E|19|Nissan Navara|9|3
+E|19|(Unknown) truck|2|35
+E|19|(Unknown) truck|0|6
+E|19|(Unknown) truck|5|16
+E|19|(Unknown) truck|12|4
+E|19|(Unknown) truck|6|2
+E|19|(Unknown) truck|8|6
+E|19|(Unknown) truck|9|19
+E|19|Van or jeep|2|19
+E|19|Van or jeep|0|4
+E|19|Van or jeep|1|1
+E|19|Van or jeep|5|9
+E|19|Van or jeep|12|3
+E|19|Van or jeep|9|8
+E|19|Bus (carrying reinforcements)|0|1
+E|19|Trailer|2|1
+E|19|Tank trailer|2|2
+E|19|S-300 trailer|2|1
+E|19|PMZ-4 Minelayer Trailer|8|1
+E|19|PMZ-4 Minelayer Trailer|9|3
+E|19|BTM-3 Trench Digger|9|1
+E|20|Decoy 9K33 Osa|0|2
+A|0|T-72A|5|5
+A|0|T-72A|12|1
+A|0|T-72AV/T-72 'Aslan'|5|8
+A|0|T-72AV/T-72 'Aslan'|12|10
+A|0|T-72AV/T-72 'Aslan'|9|5
+A|0|T-72B|5|3
+A|0|T-72B|12|1
+A|0|Unknown T-72|5|17
+A|0|Unknown T-72|12|1
+A|0|Unknown T-72|16|1
+A|0|T-90S|5|5
+A|0|T-90S|12|3
+A|0|T-90S|8|2
+A|1|MT-LB|5|1
+A|1|MT-LB|12|1
+A|1|Unknown AFV|5|1
+A|1|Unknown AFV|21|3
+A|1|Unknown AFV|16|3
+A|2|BMP-1|5|6
+A|2|BMP-1|12|2
+A|2|BMP-2|5|16
+A|2|BMP-2|22|1
+A|2|BMP-2|12|2
+A|2|BMP-2|21|1
+A|2|BMP-2|16|7
+A|2|BMP-2|9|3
+A|2|BMP-2|23|1
+A|2|BMP-2K|5|1
+A|2|BMP-3|5|4
+A|2|BMP-3|12|2
+A|2|BTR-82A|5|19
+A|2|BTR-82A|12|1
+A|2|BTR-82A|21|2
+A|2|BTR-82A|8|1
+A|2|BTR-82A|9|1
+A|2|Unknown BMP|5|3
+A|3|BTR-70|12|1
+A|3|BTR-70|9|9
+A|3|BTR-3|5|1
+A|21|Marauder|12|5
+A|21|Marauder|21|1
+A|21|Marauder|16|2
+A|21|Matador|12|4
+A|21|Matador|16|1
+A|22|Plasan SandCat|5|6
+A|22|Plasan SandCat|12|4
+A|22|Plasan SandCat|21|4
+A|22|Plasan SandCat|16|1
+A|22|Plasan SandCat|9|2
+A|6|IMR-3M combat engineering vehicle|12|1
+A|6|BMR-2 mine-clearing vehicle|16|1
+A|10|122mm KRL 122|5|1
+A|10|122mm KRL 122|12|1
+A|12|60mm 20N6M|9|1
+A|14|S-125 component|24|1
+A|17|An-2 (used as unmanned bait)|5|11
+A|17|Mi-8/17|18|1
+A|17|Su-25|25|1
+A|18|Aerostar surveillance UAV|5|1
+A|18|Bayraktar TB2 UCAV|5|2
+A|18|Unknown UAV|5|1
+A|19|UAZ-452|5|1
+A|19|GAZ-3308|12|2
+A|19|Ural-4320|5|2
+A|19|Ural-4320|12|1
+A|19|Ural-43206|5|1
+A|19|KamAZ 6x6|5|6
+A|19|KamAZ 6x6|12|1
+A|19|KamAZ 6x6|9|1
+A|19|MAZ 6x6|5|10
+A|19|MAZ 6x6|12|1
+A|19|MAZ 6x6|9|1
+A|19|AIL Storm|12|1
+A|19|(Unknown) vehicle|5|12
+A|19|(Unknown) vehicle|12|2
+A|19|Van or jeep|5|1
+A|19|Van or jeep|19|1
+A|19|Van or jeep|9|2

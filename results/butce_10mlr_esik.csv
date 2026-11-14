@@ -1,0 +1,5 @@
+senaryo,verimlilik_esigi_mrd,esikteki_getiri_mrd,doyma_butcesi_mrd,doymadaki_getiri_mrd
+A: Veriden orta değer,6.23,58.2,13.04,61.0
+B: Hedef sayısı alt sınır (Oryx düzeyi),5.3,43.7,6.49,44.5
+"C: Hedef sayısı üst sınır (iddia x 1,5)",8.46,134.7,19.83,138.5
+D: C + üretim kapasitesi 3 kat,17.74,191.2,25.33,195.6

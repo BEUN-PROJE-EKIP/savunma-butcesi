@@ -1,0 +1,67 @@
+deney,test_iddia_eden,model,n,egitim_n,medyan_kat_hata,ortalama_log_hata
+"1 Savaşlar arası (R-U ile eğit, Karabağ test)",Azerbaycan,B0 Resmi iddia,14,2101,1.37,0.156
+"1 Savaşlar arası (R-U ile eğit, Karabağ test)",Ermenistan,B0 Resmi iddia,26,2101,9.17,1.003
+"1 Savaşlar arası (R-U ile eğit, Karabağ test)",Azerbaycan,B1 Sabit düzeltme,14,2101,2.99,0.475
+"1 Savaşlar arası (R-U ile eğit, Karabağ test)",Ermenistan,B1 Sabit düzeltme,26,2101,3.0,0.442
+"1 Savaşlar arası (R-U ile eğit, Karabağ test)",Azerbaycan,B2 Kategori düzeltmesi,14,2101,2.98,0.528
+"1 Savaşlar arası (R-U ile eğit, Karabağ test)",Ermenistan,B2 Kategori düzeltmesi,26,2101,2.94,0.432
+"1 Savaşlar arası (R-U ile eğit, Karabağ test)",Azerbaycan,RF Random Forest,14,2101,2.21,0.325
+"1 Savaşlar arası (R-U ile eğit, Karabağ test)",Ermenistan,RF Random Forest,26,2101,3.42,0.606
+"1 Savaşlar arası (R-U ile eğit, Karabağ test)",Azerbaycan,GB Gradient Boosting,14,2101,2.24,0.339
+"1 Savaşlar arası (R-U ile eğit, Karabağ test)",Ermenistan,GB Gradient Boosting,26,2101,3.7,0.666
+2 Biri dışarıda: Ukrayna,Ukrayna,B0 Resmi iddia,1043,1098,2.5,0.449
+2 Biri dışarıda: Ukrayna,Ukrayna,B1 Sabit düzeltme,1043,1098,2.28,0.373
+2 Biri dışarıda: Ukrayna,Ukrayna,B2 Kategori düzeltmesi,1043,1098,2.36,0.442
+2 Biri dışarıda: Ukrayna,Ukrayna,RF Random Forest,1043,1098,2.51,0.451
+2 Biri dışarıda: Ukrayna,Ukrayna,GB Gradient Boosting,1043,1098,2.73,0.449
+2 Biri dışarıda: Rusya,Rusya,B0 Resmi iddia,1058,1083,6.17,0.902
+2 Biri dışarıda: Rusya,Rusya,B1 Sabit düzeltme,1058,1083,2.52,0.513
+2 Biri dışarıda: Rusya,Rusya,B2 Kategori düzeltmesi,1058,1083,2.66,0.498
+2 Biri dışarıda: Rusya,Rusya,RF Random Forest,1058,1083,2.49,0.445
+2 Biri dışarıda: Rusya,Rusya,GB Gradient Boosting,1058,1083,2.28,0.445
+2 Biri dışarıda: Azerbaycan,Azerbaycan,B0 Resmi iddia,14,2127,1.37,0.156
+2 Biri dışarıda: Azerbaycan,Azerbaycan,B1 Sabit düzeltme,14,2127,4.36,0.638
+2 Biri dışarıda: Azerbaycan,Azerbaycan,B2 Kategori düzeltmesi,14,2127,4.46,0.633
+2 Biri dışarıda: Azerbaycan,Azerbaycan,RF Random Forest,14,2127,3.01,0.426
+2 Biri dışarıda: Azerbaycan,Azerbaycan,GB Gradient Boosting,14,2127,3.25,0.515
+2 Biri dışarıda: Ermenistan,Ermenistan,B0 Resmi iddia,26,2115,9.17,1.003
+2 Biri dışarıda: Ermenistan,Ermenistan,B1 Sabit düzeltme,26,2115,4.54,0.637
+2 Biri dışarıda: Ermenistan,Ermenistan,B2 Kategori düzeltmesi,26,2115,3.54,0.55
+2 Biri dışarıda: Ermenistan,Ermenistan,RF Random Forest,26,2115,5.9,0.708
+2 Biri dışarıda: Ermenistan,Ermenistan,GB Gradient Boosting,26,2115,4.56,0.698
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Rusya,B0 Resmi iddia,684,738,6.16,0.883
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Ukrayna,B0 Resmi iddia,618,738,2.51,0.502
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Rusya,B1 Sabit düzeltme,684,738,1.55,0.339
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Ukrayna,B1 Sabit düzeltme,618,738,1.63,0.251
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Rusya,B2 Kategori düzeltmesi,684,738,2.31,0.446
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Ukrayna,B2 Kategori düzeltmesi,618,738,1.72,0.308
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Rusya,B3 Tarafın kendi geçmişi,684,738,1.23,0.112
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Ukrayna,B3 Tarafın kendi geçmişi,618,738,1.28,0.196
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Rusya,RF Random Forest,684,738,1.16,0.148
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Ukrayna,RF Random Forest,618,738,1.25,0.157
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Rusya,GB Gradient Boosting,684,738,1.36,0.143
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",Ukrayna,GB Gradient Boosting,618,738,1.21,0.168
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Azerbaycan,B0 Resmi iddia,9,19,1.46,0.188
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Ermenistan,B0 Resmi iddia,12,19,12.22,1.08
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Azerbaycan,B1 Sabit düzeltme,9,19,1.2,0.077
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Ermenistan,B1 Sabit düzeltme,12,19,8.28,0.91
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Azerbaycan,B2 Kategori düzeltmesi,9,19,1.34,0.272
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Ermenistan,B2 Kategori düzeltmesi,12,19,1.44,0.301
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Azerbaycan,B3 Tarafın kendi geçmişi,9,19,1.35,0.128
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Ermenistan,B3 Tarafın kendi geçmişi,12,19,1.38,0.107
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Azerbaycan,RF Random Forest,9,19,1.15,0.092
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Ermenistan,RF Random Forest,12,19,1.76,0.242
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Azerbaycan,GB Gradient Boosting,9,19,1.13,0.065
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",Ermenistan,GB Gradient Boosting,12,19,1.21,0.076
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Azerbaycan,B0 Resmi iddia,9,2120,1.46,0.188
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Ermenistan,B0 Resmi iddia,12,2120,12.22,1.08
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Azerbaycan,B1 Sabit düzeltme,9,2120,2.37,0.352
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Ermenistan,B1 Sabit düzeltme,12,2120,3.52,0.54
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Azerbaycan,B2 Kategori düzeltmesi,9,2120,2.7,0.308
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Ermenistan,B2 Kategori düzeltmesi,12,2120,3.22,0.46
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Azerbaycan,B3 Tarafın kendi geçmişi,9,2120,1.35,0.128
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Ermenistan,B3 Tarafın kendi geçmişi,12,2120,1.38,0.107
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Azerbaycan,RF Random Forest,9,2120,1.33,0.148
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Ermenistan,RF Random Forest,12,2120,1.31,0.166
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Azerbaycan,GB Gradient Boosting,9,2120,1.16,0.091
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),Ermenistan,GB Gradient Boosting,12,2120,1.28,0.156

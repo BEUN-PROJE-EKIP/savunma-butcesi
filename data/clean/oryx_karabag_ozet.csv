@@ -1,0 +1,352 @@
+﻿kayip_taraf,oryx_kategori,proje_kategori,model,oryx_durum,durum,vuran_silah,adet
+Ermenistan,Tanks,tank,T-72 'Ural',destroyed by loitering munition,imha,dolanan_muhimmat,1
+Ermenistan,Tanks,tank,T-72 'Ural',destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,Tanks,tank,T-72A,destroyed by TB2,imha,TB2,17
+Ermenistan,Tanks,tank,T-72A,destroyed by TB2 and artillery,imha,TB2,1
+Ermenistan,Tanks,tank,T-72A,destroyed by TB2 and Spike ATGM,imha,TB2,1
+Ermenistan,Tanks,tank,T-72A,destroyed by loitering munition,imha,dolanan_muhimmat,5
+Ermenistan,Tanks,tank,T-72A,destroyed by Spike ATGM,imha,Spike_ATGM,13
+Ermenistan,Tanks,tank,T-72A,destroyed,imha,belirtilmemis,9
+Ermenistan,Tanks,tank,T-72A,damaged by TB2,hasarli,TB2,2
+Ermenistan,Tanks,tank,T-72A,damaged by Spike ATGM,hasarli,Spike_ATGM,1
+Ermenistan,Tanks,tank,T-72A,damaged and captured,ele_gecirildi,belirtilmemis,6
+Ermenistan,Tanks,tank,T-72A,captured,ele_gecirildi,belirtilmemis,33
+Ermenistan,Tanks,tank,T-72AK,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Tanks,tank,T-72AK,captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Tanks,tank,T-72AV,destroyed by TB2,imha,TB2,1
+Ermenistan,Tanks,tank,T-72AV,destroyed,imha,belirtilmemis,4
+Ermenistan,Tanks,tank,T-72AV,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Tanks,tank,T-72AV,captured,ele_gecirildi,belirtilmemis,19
+Ermenistan,Tanks,tank,T-72B,destroyed by TB2,imha,TB2,11
+Ermenistan,Tanks,tank,T-72B,destroyed by loitering munition,imha,dolanan_muhimmat,3
+Ermenistan,Tanks,tank,T-72B,destroyed by Spike ATGM,imha,Spike_ATGM,6
+Ermenistan,Tanks,tank,T-72B,destroyed,imha,belirtilmemis,7
+Ermenistan,Tanks,tank,T-72B,damaged by TB2,hasarli,TB2,1
+Ermenistan,Tanks,tank,T-72B,damaged by Spike ATGM,hasarli,Spike_ATGM,1
+Ermenistan,Tanks,tank,T-72B,damaged by loitering munition and captured,ele_gecirildi,dolanan_muhimmat,1
+Ermenistan,Tanks,tank,T-72B,damaged by Spike ATGM and captured,ele_gecirildi,Spike_ATGM,1
+Ermenistan,Tanks,tank,T-72B,damaged and captured,ele_gecirildi,belirtilmemis,4
+Ermenistan,Tanks,tank,T-72B,captured,ele_gecirildi,belirtilmemis,34
+Ermenistan,Tanks,tank,Unknown T-72,destroyed by TB2,imha,TB2,54
+Ermenistan,Tanks,tank,Unknown T-72,destroyed by loitering munition,imha,dolanan_muhimmat,4
+Ermenistan,Tanks,tank,Unknown T-72,destroyed by Spike ATGM,imha,Spike_ATGM,3
+Ermenistan,Tanks,tank,Unknown T-72,destroyed,imha,belirtilmemis,3
+Ermenistan,Tanks,tank,Unknown T-72,damaged,hasarli,belirtilmemis,1
+Ermenistan,Tanks,tank,Unknown T-72,captured,ele_gecirildi,belirtilmemis,3
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,BRM-1K reconnaissance vehicle,destroyed by TB2,imha,TB2,1
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,BRM-1K reconnaissance vehicle,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,BRM-1K reconnaissance vehicle,captured,ele_gecirildi,belirtilmemis,3
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,BRDM-2,destroyed by TB2,imha,TB2,1
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,BRDM-2,captured,ele_gecirildi,belirtilmemis,5
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB,destroyed by TB2,imha,TB2,1
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB,captured,ele_gecirildi,belirtilmemis,6
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB with Zastava M55 AA gun,destroyed by TB2,imha,TB2,7
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB with Zastava M55 AA gun,destroyed by Spike ATGM,imha,Spike_ATGM,2
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB with Zastava M55 AA gun,destroyed,imha,belirtilmemis,1
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB with Zastava M55 AA gun,damaged by TB2 and captured,ele_gecirildi,TB2,1
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB with Zastava M55 AA gun,captured,ele_gecirildi,belirtilmemis,24
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB with ZU-23 AA gun,destroyed by TB2,imha,TB2,2
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB with ZU-23 AA gun,damaged by TB2,hasarli,TB2,1
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB with ZU-23 AA gun,captured,ele_gecirildi,belirtilmemis,2
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB with AZP S-60 AA gun,destroyed,imha,belirtilmemis,3
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LB with AZP S-60 AA gun,captured,ele_gecirildi,belirtilmemis,5
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,MT-LBu,captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Armoured Fighting Vehicles,zirhli_arac,Unknown AFV,destroyed,imha,belirtilmemis,1
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-1,destroyed by TB2,imha,TB2,6
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-1,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-1,destroyed,imha,belirtilmemis,2
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-1,damaged and captured,ele_gecirildi,belirtilmemis,2
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-1,damaged by TB2 and captured,ele_gecirildi,TB2,1
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-1,captured,ele_gecirildi,belirtilmemis,25
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-1,"with ZU-23 AA gun, captured",ele_gecirildi,belirtilmemis,1
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,destroyed by TB2,imha,TB2,5
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,destroyed by loitering munition,imha,dolanan_muhimmat,2
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,destroyed by Spike ATGM,imha,Spike_ATGM,3
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,destroyed,imha,belirtilmemis,9
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,destroyed after capture by Armenia,imha,belirtilmemis,1
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,damaged and captured,ele_gecirildi,belirtilmemis,3
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,captured,ele_gecirildi,belirtilmemis,17
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,Unknown BMP,destroyed by TB2,imha,TB2,2
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,Unknown BMP,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,Infantry Fighting Vehicles,zirhli_arac,Unknown BMP,destroyed,imha,belirtilmemis,1
+Ermenistan,Armoured Personnel Carriers,zirhli_arac,BTR-70,destroyed,imha,belirtilmemis,1
+Ermenistan,Self-Propelled Anti-tank Missile Systems,tanksavar,9P148 Konkurs,destroyed by TB2,imha,TB2,3
+Ermenistan,Self-Propelled Anti-tank Missile Systems,tanksavar,9P148 Konkurs,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Self-Propelled Anti-tank Missile Systems,tanksavar,9P148 Konkurs,captured,ele_gecirildi,belirtilmemis,4
+Ermenistan,Self-Propelled Anti-tank Missile Systems,tanksavar,9P149 Shturm-S,destroyed,imha,belirtilmemis,1
+Ermenistan,Self-Propelled Anti-tank Missile Systems,tanksavar,9P149 Shturm-S,captured,ele_gecirildi,belirtilmemis,10
+Ermenistan,Command Posts And Communications Stations,diger,BMP-1KSh command and staff vehicle,captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Engineering Vehicles,diger,BTS-4 armoured recovery vehicle,destroyed by TB2,imha,TB2,1
+Ermenistan,Engineering Vehicles,diger,BTS-4 armoured recovery vehicle,captured,ele_gecirildi,belirtilmemis,4
+Ermenistan,Artillery Support Vehicles,diger,1V13-16 battery fire control center,destroyed,imha,belirtilmemis,1
+Ermenistan,Artillery Support Vehicles,diger,1V13-16 battery fire control center,captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Artillery Support Vehicles,diger,SNAR-10 battlefield surveillance radar,captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Towed Artillery,topcu,85mm D-44 divisional gun,destroyed by TB2,imha,TB2,1
+Ermenistan,Towed Artillery,topcu,85mm D-44 divisional gun,damaged by TB2,hasarli,TB2,1
+Ermenistan,Towed Artillery,topcu,85mm D-44 divisional gun,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Towed Artillery,topcu,85mm D-44 divisional gun,captured,ele_gecirildi,belirtilmemis,6
+Ermenistan,Towed Artillery,topcu,100mm T-12 and MT-12 'Rapira' anti-tank gun,captured,ele_gecirildi,belirtilmemis,4
+Ermenistan,Towed Artillery,topcu,100mm KS-19 AA gun used as howitzer,destroyed by TB2,imha,TB2,6
+Ermenistan,Towed Artillery,topcu,100mm KS-19 AA gun used as howitzer,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,Towed Artillery,topcu,100mm KS-19 AA gun used as howitzer,captured,ele_gecirildi,belirtilmemis,15
+Ermenistan,Towed Artillery,topcu,122 mm M-30 howitzer,damaged,hasarli,belirtilmemis,1
+Ermenistan,Towed Artillery,topcu,122mm (D-30) howitzer 2A18,destroyed by TB2,imha,TB2,57
+Ermenistan,Towed Artillery,topcu,122mm (D-30) howitzer 2A18,destroyed by Spike ATGM,imha,Spike_ATGM,3
+Ermenistan,Towed Artillery,topcu,122mm (D-30) howitzer 2A18,destroyed,imha,belirtilmemis,7
+Ermenistan,Towed Artillery,topcu,122mm (D-30) howitzer 2A18,damaged and captured,ele_gecirildi,belirtilmemis,2
+Ermenistan,Towed Artillery,topcu,122mm (D-30) howitzer 2A18,captured,ele_gecirildi,belirtilmemis,37
+Ermenistan,Towed Artillery,topcu,152mm (D-1) gun-howitzer M-1943,destroyed by TB2,imha,TB2,9
+Ermenistan,Towed Artillery,topcu,152mm (D-1) gun-howitzer M-1943,captured,ele_gecirildi,belirtilmemis,9
+Ermenistan,Towed Artillery,topcu,152mm (D-20) gun-howitzer M-1955,destroyed by TB2,imha,TB2,46
+Ermenistan,Towed Artillery,topcu,152mm (D-20) gun-howitzer M-1955,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,Towed Artillery,topcu,152mm (D-20) gun-howitzer M-1955,damaged by TB2,hasarli,TB2,3
+Ermenistan,Towed Artillery,topcu,152mm (D-20) gun-howitzer M-1955,captured,ele_gecirildi,belirtilmemis,25
+Ermenistan,Towed Artillery,topcu,152mm 2A36 Giatsint-B field-gun,destroyed by TB2,imha,TB2,12
+Ermenistan,Towed Artillery,topcu,152mm 2A36 Giatsint-B field-gun,damaged,hasarli,belirtilmemis,1
+Ermenistan,Towed Artillery,topcu,152mm 2A36 Giatsint-B field-gun,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Towed Artillery,topcu,152mm 2A36 Giatsint-B field-gun,captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Self-Propelled Artillery,topcu,122mm 2S1 Gvozdika,destroyed by TB2,imha,TB2,16
+Ermenistan,Self-Propelled Artillery,topcu,122mm 2S1 Gvozdika,damaged by TB2 and captured,ele_gecirildi,TB2,1
+Ermenistan,Self-Propelled Artillery,topcu,122mm 2S1 Gvozdika,damaged and captured,ele_gecirildi,belirtilmemis,3
+Ermenistan,Self-Propelled Artillery,topcu,122mm 2S1 Gvozdika,captured,ele_gecirildi,belirtilmemis,4
+Ermenistan,Self-Propelled Artillery,topcu,152mm 2S3 Akatsiya,destroyed by loitering munition,imha,dolanan_muhimmat,4
+Ermenistan,Self-Propelled Artillery,topcu,152mm 2S3 Akatsiya,destroyed,imha,belirtilmemis,1
+Ermenistan,Multiple Rocket Launchers,roketatar,122mm BM-21 'Grad',destroyed by TB2,imha,TB2,56
+Ermenistan,Multiple Rocket Launchers,roketatar,122mm BM-21 'Grad',destroyed by loitering munition,imha,dolanan_muhimmat,7
+Ermenistan,Multiple Rocket Launchers,roketatar,122mm BM-21 'Grad',destroyed by Spike ATGM,imha,Spike_ATGM,2
+Ermenistan,Multiple Rocket Launchers,roketatar,122mm BM-21 'Grad',destroyed,imha,belirtilmemis,1
+Ermenistan,Multiple Rocket Launchers,roketatar,122mm BM-21 'Grad',abandoned,terk,belirtilmemis,1
+Ermenistan,Multiple Rocket Launchers,roketatar,122mm BM-21 'Grad',damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Multiple Rocket Launchers,roketatar,122mm BM-21 'Grad',captured,ele_gecirildi,belirtilmemis,7
+Ermenistan,Multiple Rocket Launchers,roketatar,273mm WM-80,unknown,diger,belirtilmemis,1
+Ermenistan,Multiple Rocket Launchers,roketatar,220mm TOS-1,destroyed by TB2,imha,TB2,1
+Ermenistan,Multiple Rocket Launchers,roketatar,300mm BM-30 'Smerch',destroyed by TB2,imha,TB2,3
+Ermenistan,Multiple Rocket Launchers,roketatar,300mm BM-30 'Smerch',destroyed by loitering munition,imha,dolanan_muhimmat,1
+Ermenistan,Multiple Rocket Launchers,roketatar,Unknown MRL,destroyed by TB2,imha,TB2,1
+Ermenistan,Multiple Rocket Launchers,roketatar,Unknown MRL,destroyed by loitering munition,imha,dolanan_muhimmat,1
+Ermenistan,Ballistic Missiles,balistik_fuze,R-17 'Scud-B',destroyed,imha,belirtilmemis,2
+Ermenistan,Mortars,topcu,60mm M57,captured,ele_gecirildi,belirtilmemis,16
+Ermenistan,Mortars,topcu,82mm M69,destroyed,imha,belirtilmemis,3
+Ermenistan,Mortars,topcu,82mm M69,captured,ele_gecirildi,belirtilmemis,11
+Ermenistan,Mortars,topcu,82mm 2B9 Vasilek,captured,ele_gecirildi,belirtilmemis,2
+Ermenistan,Mortars,topcu,120mm M74,captured,ele_gecirildi,belirtilmemis,4
+Ermenistan,Mortars,topcu,120mm M75,destroyed,imha,belirtilmemis,5
+Ermenistan,Mortars,topcu,120mm M75,captured,ele_gecirildi,belirtilmemis,9
+Ermenistan,Mortars,topcu,'Hell cannon',captured,ele_gecirildi,belirtilmemis,5
+Ermenistan,Mortars,topcu,Unknown mortar,destroyed by TB2,imha,TB2,1
+Ermenistan,Mortars,topcu,Unknown mortar,captured,ele_gecirildi,belirtilmemis,3
+Ermenistan,(Self-Propelled) Anti-Aircraft Guns,hava_savunma,ZU-23,destroyed,imha,belirtilmemis,2
+Ermenistan,(Self-Propelled) Anti-Aircraft Guns,hava_savunma,ZU-23,captured,ele_gecirildi,belirtilmemis,2
+Ermenistan,(Self-Propelled) Anti-Aircraft Guns,hava_savunma,ZSU-23-4 'Shilka',destroyed by TB2,imha,TB2,1
+Ermenistan,(Self-Propelled) Anti-Aircraft Guns,hava_savunma,ZSU-23-4 'Shilka',damaged and captured,ele_gecirildi,belirtilmemis,2
+Ermenistan,(Self-Propelled) Anti-Aircraft Guns,hava_savunma,ZSU-23-4 'Shilka',captured,ele_gecirildi,belirtilmemis,8
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,9K35 Strela-10,destroyed by TB2,imha,TB2,3
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,9K33 Osa,destroyed by TB2,imha,TB2,16
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,9K33 Osa,destroyed by loitering munition,imha,dolanan_muhimmat,3
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,9K33 Osa,destroyed,imha,belirtilmemis,1
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,9K33 Osa,captured,ele_gecirildi,belirtilmemis,2
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,2K12 Kub,destroyed by loitering munition,imha,dolanan_muhimmat,2
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,2K12 Kub,captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,2K11 Krug,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,2K11 Krug,captured,ele_gecirildi,belirtilmemis,2
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,5P85S (launcher for S-300PS),destroyed by loitering munition,imha,dolanan_muhimmat,2
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,5P85S (launcher for S-300PS),destroyed,imha,belirtilmemis,2
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,5P85D (launcher for S-300PS),destroyed by loitering munition,imha,dolanan_muhimmat,1
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,S-300 component,destroyed by loitering munition,imha,dolanan_muhimmat,1
+Ermenistan,Surface-To-Air Missile Systems,hava_savunma,Tor-M2KM,destroyed by loitering munition,imha,dolanan_muhimmat,2
+Ermenistan,Radars,hava_savunma,P-15 'Flat Face A',captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Radars,hava_savunma,P-18 'Spoon Rest D',destroyed by TB2,imha,TB2,2
+Ermenistan,Radars,hava_savunma,P-19 'Flat Face B',damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Radars,hava_savunma,ST86U/36D6 'Tin Shield' (for S-300),destroyed by TB2,imha,TB2,1
+Ermenistan,Radars,hava_savunma,ST86U/36D6 'Tin Shield' (for S-300),destroyed by loitering munition,imha,dolanan_muhimmat,3
+Ermenistan,Radars,hava_savunma,SNR-125 'Low Blow' (for S-125),destroyed by loitering munition,imha,dolanan_muhimmat,1
+Ermenistan,Radars,hava_savunma,5N63S 'Flap Lid' (for S-300),destroyed by loitering munition,imha,dolanan_muhimmat,2
+Ermenistan,Radars,hava_savunma,19J6 (for S-300),destroyed by TB2,imha,TB2,1
+Ermenistan,Radars,hava_savunma,1S32 'Pat Hand' (for 2K11 Krug),destroyed by TB2,imha,TB2,1
+Ermenistan,Radars,hava_savunma,1S32 'Pat Hand' (for 2K11 Krug),captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Radars,hava_savunma,1S91 SURN (for 2K12 Kub),destroyed by TB2,imha,TB2,1
+Ermenistan,Radars,hava_savunma,1S91 SURN (for 2K12 Kub),destroyed by loitering munition,imha,dolanan_muhimmat,1
+Ermenistan,Radars,hava_savunma,1S91 SURN (for 2K12 Kub),captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Radars,hava_savunma,Unknown radar,destroyed,imha,belirtilmemis,1
+Ermenistan,Jammers and Deception Systems,elektronik_harp,R-330P Piramida-I,destroyed by TB2,imha,TB2,1
+Ermenistan,Jammers and Deception Systems,elektronik_harp,Repellent-1,destroyed,imha,belirtilmemis,2
+Ermenistan,Aircraft and Helicopters,hava_araci,Su-25K,crashed,imha,belirtilmemis,1
+Ermenistan,Aircraft and Helicopters,hava_araci,Mi-8,destroyed,imha,belirtilmemis,1
+Ermenistan,Unmanned Aerial Vehicles,iha,Orlan-10,destroyed,imha,belirtilmemis,1
+Ermenistan,Unmanned Aerial Vehicles,iha,X-55,destroyed,imha,belirtilmemis,1
+Ermenistan,Unmanned Aerial Vehicles,iha,Quadcopter drone,crashed,imha,belirtilmemis,1
+Ermenistan,Unmanned Aerial Vehicles,iha,Unknown UAV,destroyed,imha,belirtilmemis,2
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-66,destroyed by TB2,imha,TB2,3
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-66,destroyed,imha,belirtilmemis,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-66,captured,ele_gecirildi,belirtilmemis,15
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-69A,captured,ele_gecirildi,belirtilmemis,5
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-3308,destroyed by TB2,imha,TB2,11
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-3308,destroyed by loitering munition,imha,dolanan_muhimmat,2
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-3308,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-3308,destroyed,imha,belirtilmemis,5
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-3308,"with ZU-23 AA gun, destroyed",imha,belirtilmemis,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-3308,damaged,hasarli,belirtilmemis,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-3308,damaged and captured,ele_gecirildi,belirtilmemis,5
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-3308,captured,ele_gecirildi,belirtilmemis,45
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,9T217 transloader (for 9K33 Osa),destroyed by TB2,imha,TB2,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,9T217 transloader (for 9K33 Osa),captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ 6x6,destroyed by TB2,imha,TB2,23
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ 6x6,destroyed by loitering munition,imha,dolanan_muhimmat,4
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ 6x6,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ 6x6,destroyed,imha,belirtilmemis,11
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ 6x6,damaged by TB2,hasarli,TB2,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ 6x6,damaged and captured,ele_gecirildi,belirtilmemis,4
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ 6x6,captured,ele_gecirildi,belirtilmemis,25
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,KrAZ-255,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ/KrAZ dump truck,destroyed by TB2,imha,TB2,12
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ/KrAZ dump truck,destroyed,imha,belirtilmemis,6
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ/KrAZ dump truck,captured,ele_gecirildi,belirtilmemis,3
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,ZiL-130,captured,ele_gecirildi,belirtilmemis,3
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,ZiL-131,destroyed by TB2,imha,TB2,4
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,ZiL-131,destroyed by loitering munition,imha,dolanan_muhimmat,3
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,ZiL-131,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,ZiL-131,destroyed,imha,belirtilmemis,11
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,ZiL-131,damaged and captured,ele_gecirildi,belirtilmemis,7
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,ZiL-131,captured,ele_gecirildi,belirtilmemis,62
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-375,destroyed by TB2,imha,TB2,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-375,destroyed,imha,belirtilmemis,4
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-375,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-375,captured,ele_gecirildi,belirtilmemis,4
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-4320,destroyed by TB2,imha,TB2,48
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-4320,destroyed by loitering munition,imha,dolanan_muhimmat,2
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-4320,destroyed,imha,belirtilmemis,13
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-4320,damaged by TB2,hasarli,TB2,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-4320,damaged and captured,ele_gecirildi,belirtilmemis,7
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-4320,captured,ele_gecirildi,belirtilmemis,50
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-4320 fuel/water tanker,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-4320 fuel/water tanker,captured,ele_gecirildi,belirtilmemis,7
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-43206,destroyed by TB2,imha,TB2,6
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-43206,destroyed,imha,belirtilmemis,7
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-43206,damaged and captured,ele_gecirildi,belirtilmemis,4
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-43206,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-43206,damaged by Spike ATGM and captured,ele_gecirildi,Spike_ATGM,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Ural-43206,captured,ele_gecirildi,belirtilmemis,28
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-452,destroyed by TB2,imha,TB2,5
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-452,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-452,destroyed,imha,belirtilmemis,15
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-452,damaged,hasarli,belirtilmemis,8
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-452,damaged and captured,ele_gecirildi,belirtilmemis,4
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-452,captured,ele_gecirildi,belirtilmemis,14
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-469,destroyed by TB2,imha,TB2,9
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-469,destroyed,imha,belirtilmemis,10
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-469,damaged by TB2,hasarli,TB2,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-469,damaged,hasarli,belirtilmemis,3
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-469,damaged and captured,ele_gecirildi,belirtilmemis,5
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-469,captured,ele_gecirildi,belirtilmemis,16
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ Hunter,captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ Patriot,destroyed,imha,belirtilmemis,2
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ Patriot,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ Patriot,captured,ele_gecirildi,belirtilmemis,4
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-23602-130,captured,ele_gecirildi,belirtilmemis,7
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-23632,destroyed by TB2,imha,TB2,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-23632,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-23632,destroyed,imha,belirtilmemis,2
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-23632,captured,ele_gecirildi,belirtilmemis,13
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Nissan Navara,destroyed,imha,belirtilmemis,2
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Nissan Navara,damaged and captured,ele_gecirildi,belirtilmemis,3
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Nissan Navara,captured,ele_gecirildi,belirtilmemis,3
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,(Unknown) truck,destroyed by TB2,imha,TB2,35
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,(Unknown) truck,destroyed by loitering munition,imha,dolanan_muhimmat,6
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,(Unknown) truck,destroyed,imha,belirtilmemis,16
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,(Unknown) truck,damaged,hasarli,belirtilmemis,4
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,(Unknown) truck,damaged by TB2,hasarli,TB2,2
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,(Unknown) truck,damaged and captured,ele_gecirildi,belirtilmemis,6
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,(Unknown) truck,captured,ele_gecirildi,belirtilmemis,19
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Van or jeep,destroyed by TB2,imha,TB2,19
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Van or jeep,destroyed by loitering munition,imha,dolanan_muhimmat,4
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Van or jeep,destroyed by Spike ATGM,imha,Spike_ATGM,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Van or jeep,destroyed,imha,belirtilmemis,9
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Van or jeep,damaged,hasarli,belirtilmemis,3
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Van or jeep,captured,ele_gecirildi,belirtilmemis,8
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Bus (carrying reinforcements),destroyed by loitering munition,imha,dolanan_muhimmat,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Trailer,destroyed by TB2,imha,TB2,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,Tank trailer,destroyed by TB2,imha,TB2,2
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,S-300 trailer,destroyed by TB2,imha,TB2,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,PMZ-4 Minelayer Trailer,damaged and captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,PMZ-4 Minelayer Trailer,captured,ele_gecirildi,belirtilmemis,3
+Ermenistan,"Trucks, Vehicles and Jeeps",lojistik,BTM-3 Trench Digger,captured,ele_gecirildi,belirtilmemis,1
+Ermenistan,Decoys,yem,Decoy 9K33 Osa,destroyed by loitering munition,imha,dolanan_muhimmat,2
+Azerbaycan,Tanks,tank,T-72A,destroyed,imha,belirtilmemis,5
+Azerbaycan,Tanks,tank,T-72A,damaged,hasarli,belirtilmemis,1
+Azerbaycan,Tanks,tank,T-72AV/T-72 'Aslan',destroyed,imha,belirtilmemis,8
+Azerbaycan,Tanks,tank,T-72AV/T-72 'Aslan',damaged,hasarli,belirtilmemis,10
+Azerbaycan,Tanks,tank,T-72AV/T-72 'Aslan',captured,ele_gecirildi,belirtilmemis,5
+Azerbaycan,Tanks,tank,T-72B,destroyed,imha,belirtilmemis,3
+Azerbaycan,Tanks,tank,T-72B,damaged,hasarli,belirtilmemis,1
+Azerbaycan,Tanks,tank,Unknown T-72,destroyed,imha,belirtilmemis,17
+Azerbaycan,Tanks,tank,Unknown T-72,damaged,hasarli,belirtilmemis,1
+Azerbaycan,Tanks,tank,Unknown T-72,abandoned,terk,belirtilmemis,1
+Azerbaycan,Tanks,tank,T-90S,destroyed,imha,belirtilmemis,5
+Azerbaycan,Tanks,tank,T-90S,damaged,hasarli,belirtilmemis,3
+Azerbaycan,Tanks,tank,T-90S,damaged and captured,ele_gecirildi,belirtilmemis,2
+Azerbaycan,Armoured Fighting Vehicles,zirhli_arac,MT-LB,destroyed,imha,belirtilmemis,1
+Azerbaycan,Armoured Fighting Vehicles,zirhli_arac,MT-LB,damaged,hasarli,belirtilmemis,1
+Azerbaycan,Armoured Fighting Vehicles,zirhli_arac,Unknown AFV,destroyed,imha,belirtilmemis,1
+Azerbaycan,Armoured Fighting Vehicles,zirhli_arac,Unknown AFV,damaged and abandoned,terk,belirtilmemis,3
+Azerbaycan,Armoured Fighting Vehicles,zirhli_arac,Unknown AFV,abandoned,terk,belirtilmemis,3
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-1,destroyed,imha,belirtilmemis,6
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-1,damaged,hasarli,belirtilmemis,2
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,destroyed,imha,belirtilmemis,16
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,destroyed by Azerbaijan to prevent capture,imha,belirtilmemis,1
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,damaged,hasarli,belirtilmemis,2
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,damaged and abandoned,terk,belirtilmemis,1
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,abandoned,terk,belirtilmemis,7
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,captured,ele_gecirildi,belirtilmemis,3
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-2,"captured by Armenia, but later destroyed by Azerbaijan",imha,belirtilmemis,1
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-2K,destroyed,imha,belirtilmemis,1
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-3,destroyed,imha,belirtilmemis,4
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BMP-3,damaged,hasarli,belirtilmemis,2
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BTR-82A,destroyed,imha,belirtilmemis,19
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BTR-82A,damaged,hasarli,belirtilmemis,1
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BTR-82A,damaged and abandoned,terk,belirtilmemis,2
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BTR-82A,damaged and captured,ele_gecirildi,belirtilmemis,1
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,BTR-82A,captured,ele_gecirildi,belirtilmemis,1
+Azerbaycan,Infantry Fighting Vehicles,zirhli_arac,Unknown BMP,destroyed,imha,belirtilmemis,3
+Azerbaycan,Armoured Personnel Carriers,zirhli_arac,BTR-70,damaged,hasarli,belirtilmemis,1
+Azerbaycan,Armoured Personnel Carriers,zirhli_arac,BTR-70,captured,ele_gecirildi,belirtilmemis,9
+Azerbaycan,Armoured Personnel Carriers,zirhli_arac,BTR-3,destroyed,imha,belirtilmemis,1
+Azerbaycan,Mine-Resistant Ambush Protected (MRAP) Vehicles,zirhli_arac,Marauder,damaged,hasarli,belirtilmemis,5
+Azerbaycan,Mine-Resistant Ambush Protected (MRAP) Vehicles,zirhli_arac,Marauder,damaged and abandoned,terk,belirtilmemis,1
+Azerbaycan,Mine-Resistant Ambush Protected (MRAP) Vehicles,zirhli_arac,Marauder,abandoned,terk,belirtilmemis,2
+Azerbaycan,Mine-Resistant Ambush Protected (MRAP) Vehicles,zirhli_arac,Matador,damaged,hasarli,belirtilmemis,4
+Azerbaycan,Mine-Resistant Ambush Protected (MRAP) Vehicles,zirhli_arac,Matador,abandoned,terk,belirtilmemis,1
+Azerbaycan,Infantry Mobility Vehicles,zirhli_arac,Plasan SandCat,destroyed,imha,belirtilmemis,6
+Azerbaycan,Infantry Mobility Vehicles,zirhli_arac,Plasan SandCat,damaged,hasarli,belirtilmemis,4
+Azerbaycan,Infantry Mobility Vehicles,zirhli_arac,Plasan SandCat,damaged and abandoned,terk,belirtilmemis,4
+Azerbaycan,Infantry Mobility Vehicles,zirhli_arac,Plasan SandCat,abandoned,terk,belirtilmemis,1
+Azerbaycan,Infantry Mobility Vehicles,zirhli_arac,Plasan SandCat,captured,ele_gecirildi,belirtilmemis,2
+Azerbaycan,Engineering Vehicles,diger,IMR-3M combat engineering vehicle,damaged,hasarli,belirtilmemis,1
+Azerbaycan,Engineering Vehicles,diger,BMR-2 mine-clearing vehicle,abandoned,terk,belirtilmemis,1
+Azerbaycan,Multiple Rocket Launchers,roketatar,122mm KRL 122,destroyed,imha,belirtilmemis,1
+Azerbaycan,Multiple Rocket Launchers,roketatar,122mm KRL 122,damaged,hasarli,belirtilmemis,1
+Azerbaycan,Mortars,topcu,60mm 20N6M,captured,ele_gecirildi,belirtilmemis,1
+Azerbaycan,Surface-To-Air Missile Systems,hava_savunma,S-125 component,damaged by loitering munition,hasarli,dolanan_muhimmat,1
+Azerbaycan,Aircraft and Helicopters,hava_araci,An-2 (used as unmanned bait),destroyed,imha,belirtilmemis,11
+Azerbaycan,Aircraft and Helicopters,hava_araci,Mi-8/17,crashed,imha,belirtilmemis,1
+Azerbaycan,Aircraft and Helicopters,hava_araci,Su-25,loss admitted by Azerbaijan,diger,belirtilmemis,1
+Azerbaycan,Unmanned Aerial Vehicles,iha,Aerostar surveillance UAV,destroyed,imha,belirtilmemis,1
+Azerbaycan,Unmanned Aerial Vehicles,iha,Bayraktar TB2 UCAV,destroyed,imha,belirtilmemis,2
+Azerbaycan,Unmanned Aerial Vehicles,iha,Unknown UAV,destroyed,imha,belirtilmemis,1
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,UAZ-452,destroyed,imha,belirtilmemis,1
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,GAZ-3308,damaged,hasarli,belirtilmemis,2
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,Ural-4320,destroyed,imha,belirtilmemis,2
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,Ural-4320,damaged,hasarli,belirtilmemis,1
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,Ural-43206,destroyed,imha,belirtilmemis,1
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ 6x6,destroyed,imha,belirtilmemis,6
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ 6x6,damaged,hasarli,belirtilmemis,1
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,KamAZ 6x6,captured,ele_gecirildi,belirtilmemis,1
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,MAZ 6x6,destroyed,imha,belirtilmemis,10
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,MAZ 6x6,damaged,hasarli,belirtilmemis,1
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,MAZ 6x6,captured,ele_gecirildi,belirtilmemis,1
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,AIL Storm,damaged,hasarli,belirtilmemis,1
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,(Unknown) vehicle,destroyed,imha,belirtilmemis,12
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,(Unknown) vehicle,damaged,hasarli,belirtilmemis,2
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,Van or jeep,destroyed,imha,belirtilmemis,1
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,Van or jeep,"with ZU-23 AA gun, destroyed",imha,belirtilmemis,1
+Azerbaycan,"Trucks, Vehicles and Jeeps",lojistik,Van or jeep,captured,ele_gecirildi,belirtilmemis,2

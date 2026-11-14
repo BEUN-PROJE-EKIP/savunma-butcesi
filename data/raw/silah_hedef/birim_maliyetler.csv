@@ -1,0 +1,15 @@
+kalem,tur,dusuk_usd,merkez_usd,yuksek_usd,kaynak,not
+Lancet,silah,20000,35000,67000,"Wikipedia ZALA Lancet (ihracat 3 mn ruble ~35.000$; yurtiçi 20.000$); Gubarev'e göre 37-67 bin $ (UNITED24)",
+tank,hedef,300000,1500000,4000000,"thepage.ua (T-64 ~300 bin $, T-72 1,5-3 mn $); Forbes 2022 (tank 4 mn $)","Ukrayna filosu ağırlıkla T-64/T-72"
+kundagi_motorlu_top,hedef,1500000,2500000,6000000,"UNITED24 (2S19 1,47 mn €, M109 1,7 mn $, Bohdana ~2,5 mn $, CAESAR ~6 mn $); mezha (Akatsiya 1,6 mn $)",
+cekili_top,hedef,300000,1000000,4400000,"mezha (obüs 0,3 mn $); war-cost-tracker (M777 750 bin $); M777 4,4 mn $ (ABD tedarik fiyatı)","D-30/M777 karışımı"
+hafif_zirhli,hedef,300000,800000,3200000,"mezha (IFV 0,6 mn $); war-cost-tracker (Bradley 3,2 mn $)","BMP/MRAP/zırhlı araç karışımı"
+arac,hedef,30000,80000,200000,VARSAYIM,"kamyon/pikap; açık kaynak fiyat bulunamadı"
+ozel_arac,hedef,200000,1000000,9000000,"VARSAYIM; Forbes Eylül 2022 (10 özel araç 90 mn $ -> ortalama 9 mn $, EH dahil)","mühendislik/kurtarma araçları"
+radar,hedef,1000000,5000000,25000000,"UNITED24 (Zoopark ~23 mn $, Podlet 5 mn $); Forbes (Zoopark 25 mn $)","küçük gözetleme radarları daha ucuz"
+hs_fuze,hedef,5000000,10000000,50000000,"Ukrayna MoD (Buk 40-50 mn $); Forbes Eylül 2022 (6 HS sistemi 42 mn $ -> 7 mn $)","fırlatıcı/sistem karışımı"
+hs_top,hedef,100000,2000000,7000000,VARSAYIM,"ZU-23'ten Gepard'a kadar geniş aralık"
+roketatar,hedef,500000,1500000,5600000,"VARSAYIM (BM-21); war-cost-tracker (HIMARS 5,6 mn $)",
+deniz_araci,hedef,50000,300000,1000000,VARSAYIM,"tekne/insansız deniz aracı"
+maket,hedef,1000,10000,50000,VARSAYIM,"şişme/ahşap yem"
+hasar_kayip_orani,parametre,0.1,0.3,0.5,VARSAYIM,"hasar gören hedefte kaybedilen değer payı (tamir edilebilir)"

@@ -1,0 +1,13 @@
+hedef_alt,ad,p_imha,p_hasar,deger_merkez_usd,ev_merkez_usd,oran_medyan,oran_p10,oran_p90,gozlenen_saldiri_2024_26
+hs_fuze,Hava savunma (füze),0.411,0.529,10000000.0,5698120,207.5,107.9,455.9,75
+radar,Radar,0.571,0.388,5000000.0,3436464,95.1,37.2,241.8,183
+kundagi_motorlu_top,Kundağı motorlu top,0.346,0.573,2500000.0,1295376,40.3,24.6,67.8,643
+roketatar,Roketatar,0.416,0.534,1500000.0,863460,25.7,12.4,53.9,80
+ozel_arac,Özel araç,0.403,0.534,1000000.0,562847,18.2,6.5,58.2,141
+hs_top,Hava savunma (top),0.359,0.588,2000000.0,1070927,18.0,4.4,52.4,44
+tank,Tank,0.306,0.622,1500000.0,739256,17.1,7.3,35.3,443
+cekili_top,Çekili top,0.224,0.686,1000000.0,429809,12.7,5.9,28.8,1024
+hafif_zirhli,Hafif zırhlı,0.306,0.647,800000.0,400169,12.4,6.1,26.4,589
+deniz_araci,Deniz aracı,0.578,0.397,300000.0,209140,4.9,1.9,11.1,47
+arac,Lojistik araç,0.542,0.405,80000.0,53069,1.4,0.8,2.6,628
+maket,Maket (yem),0.432,0.511,10000.0,5853,0.1,0.0,0.4,19

@@ -1,0 +1,9 @@
+,log_gun,artis_hizi,kat_zirhli_toplam,kat_topcu,kat_roketatar,kat_hava_savunma,kat_ucak,kat_helikopter,eden_Ukrayna,eden_Rusya,eden_Azerbaycan,eden_Ermenistan
+"1 Savaşlar arası (R-U ile eğit, Karabağ test)",0.294,0.251,0.013,0.289,0.062,0.085,0.004,0.004,,,,
+2 Biri dışarıda: Ukrayna,0.424,0.085,0.012,0.041,0.067,0.058,0.167,0.146,,,,
+2 Biri dışarıda: Rusya,0.612,0.021,0.003,0.058,0.002,0.018,0.145,0.14,,,,
+2 Biri dışarıda: Azerbaycan,0.387,0.144,0.032,0.126,0.053,0.155,0.053,0.05,,,,
+2 Biri dışarıda: Ermenistan,0.611,0.13,0.007,0.162,0.041,0.041,0.004,0.006,,,,
+"3 Zaman bölmeli (Tem 2023 öncesiyle eğit, sonrasını test)",0.069,0.062,0.047,0.021,0.024,0.057,0.012,0.006,0.332,0.007,0.353,0.009
+"4a Karabağ zaman bölmeli (sadece Karabağ, 24 Eki öncesi eğit)",0.051,0.061,0.062,0.0,0.005,0.0,0.021,0.018,0.0,0.0,0.398,0.384
+4b Karabağ zaman bölmeli (R-U + Karabağ 24 Eki öncesi eğit),0.058,0.125,0.059,0.043,0.016,0.055,0.014,0.006,0.17,0.003,0.446,0.004

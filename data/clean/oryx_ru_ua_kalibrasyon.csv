@@ -1,0 +1,15 @@
+taraf,kategori,oryx_baslik,tarih,kazima,kalibrasyon_orani,oryx_tipleri
+Rusya,tank,4103,2025-08-21,4959,0.827,Tanks
+Rusya,zirhli_toplam,13154,2025-08-21,14907,0.882,ACV
+Rusya,topcu,1456,2025-08-17,1509,0.965,Self-Propelled Artillery+Towed Artillery
+Rusya,roketatar,515,2025-08-21,593,0.868,Rocket and Missile Artillery
+Rusya,hava_savunma,430,2025-03-21,461,0.933,Surface-To-Air Missile Systems+Self-Propelled Anti-Aircraft Guns+Anti-Aircraft Guns
+Rusya,ucak,163,2025-07-27,171,0.953,Aircraft
+Rusya,helikopter,159,2025-07-05,164,0.97,Helicopters
+Ukrayna,tank,1246,2025-08-21,1404,0.887,Tanks
+Ukrayna,zirhli_toplam,4900,2025-08-21,5605,0.874,ACV
+Ukrayna,topcu,862,2025-08-17,893,0.965,Self-Propelled Artillery+Towed Artillery
+Ukrayna,roketatar,88,2025-06-27,112,0.786,Rocket and Missile Artillery
+Ukrayna,hava_savunma,222,2025-04-07,263,0.844,Surface-To-Air Missile Systems+Self-Propelled Anti-Aircraft Guns+Anti-Aircraft Guns
+Ukrayna,ucak,110,2025-07-27,138,0.797,Aircraft
+Ukrayna,helikopter,52,2025-07-12,59,0.881,Helicopters

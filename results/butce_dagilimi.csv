@@ -1,0 +1,13 @@
+hedef_alt,ad,gercek,optimal_c1.5,optimal_c2.0
+radar,Radar,183,274,366
+hs_fuze,Hava savunma (füze),75,112,150
+hs_top,Hava savunma (top),44,66,88
+kundagi_motorlu_top,Kundağı motorlu top,643,964,1286
+cekili_top,Çekili top,1024,1502,698
+roketatar,Roketatar,80,120,160
+tank,Tank,443,664,886
+hafif_zirhli,Hafif zırhlı,589,0,0
+ozel_arac,Özel araç,141,212,282
+arac,Lojistik araç,628,0,0
+deniz_araci,Deniz aracı,47,0,0
+maket,Maket (yem),19,0,0
